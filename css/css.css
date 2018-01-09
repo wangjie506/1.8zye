@@ -1,0 +1,33 @@
+a{
+				text-decoration: none;
+				color: black;;
+				cursor: pointer;;
+			}
+			li{
+				list-style: none;
+				font-size: 18px;;
+			}
+			span{
+				color: #767676;;
+				font-size: 14px;;
+			}
+			ol{
+				border-bottom: 2px solid #7b7a89;
+				padding-bottom: 15px;;
+			font-size: 20px;;
+					margin-bottom: 15px;;
+				margin-top: 5px;;
+			}
+			input{ display: block; margin: 20px;}
+			#textname{
+				margin-top: 70px;;
+			}
+			button{
+				float: right;;
+				margin-top: -80px;;
+			}
+			#btn{
+				margin-left: 20px;;
+				float: left;;
+				margin-top: 30px;;
+			}
